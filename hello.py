@@ -1,2 +1,2 @@
-#!/usr/bin/pytho
+#!/usr/bin/python
 print "Hello, World!";
